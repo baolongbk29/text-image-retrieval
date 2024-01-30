@@ -1,0 +1,12 @@
+fastapi
+imagehash
+loguru
+matplotlib
+pandas
+pinecone-client
+python-dotenv
+python-multipart
+torch
+torchvision
+tqdm
+uvicorn[standard]
